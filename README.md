@@ -1,7 +1,7 @@
 # CS305-Project2
 
 # Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
-A fictional financial advising service, whose needs were incredibly vague and ill-defined wanted to create an application that allowed for their clients to interface with their company's services. Due to the nature of their business (financial sector) security was a chief concern for them.
+A fictional financial advising service (whose needs were incredibly vague and ill-defined) wanted to create an application that allowed for their clients to interface with their company's services. Due to the nature of their business security was a chief concern for them.
 
 # What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
 Coding securely is essential to prevent vulnerabilities that could lead to unauthorized access/data breaches. Strong software security protects a company’s assets, is often a matter of regulatory compliance, and mitigates risks to users.
